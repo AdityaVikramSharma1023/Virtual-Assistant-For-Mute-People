@@ -1,0 +1,1 @@
+<H1>A virtual assistant specially tailored for individuals who are mute, allowing them to communicate using hand sign language in real time. This innovative approach will empower mute individuals to engage with technology efficiently, enhancing their communication and overall quality of life.</H1>
