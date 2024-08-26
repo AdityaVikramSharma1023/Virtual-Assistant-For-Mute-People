@@ -8,6 +8,6 @@
 </p>
 <hr>
 <p float="left">
-  <img width="300" src="cr_decsionTree.png">
-  <img width="500" src="cr_merged">
+  <img width="300" src="cr_decisionTree.png">
+  <img width="500" src="cr_merged.png">
 </p>
