@@ -24,7 +24,7 @@ This empowers mute individuals to perform such basic tasks by simply using hand 
   <img width="300" src="dh.png">
 </p>
 <hr>
-<h3></h3>
+<h3>Classification Reports</h3>
 <p float="left">
   <img width="300" src="cr_decisionTree.png">
   <img width="700" src="cr_merged.png">
