@@ -22,15 +22,15 @@ This empowers mute individuals to perform such basic tasks by simply using hand 
   <li>RandomForest Classifier</li>
   <li>GridSearch CV</li>
 </ul>
-<img width="500" src="hand_signs.png"> <img width="500" src="hand_landmarks.png">
+<img width="500" src="screenshots/hand_signs.png"> <img width="500" src="screenshots/hand_landmarks.png">
 <p float="left">
-  <img width="300" src="bh.png">
-  <img width="300" src="ch.png">
-  <img width="300" src="dh.png">
+  <img width="300" src="screenshots/bh.png">
+  <img width="300" src="screenshots/ch.png">
+  <img width="300" src="screenshots/dh.png">
 </p>
 <hr>
 <h3>Classification Reports</h3>
 <p float="left">
-  <img width="300" src="cr_decisionTree.png">
-  <img width="700" src="cr_merged.png">
+  <img width="300" src="screenshots/cr_decisionTree.png">
+  <img width="700" src="screenshots/cr_merged.png">
 </p>
